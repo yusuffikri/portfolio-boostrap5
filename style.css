@@ -1,0 +1,49 @@
+/* Font Area */
+@font-face {
+  font-family: "PoppinsBold";
+  src: url(fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "PoppinsReguler";
+  src: url(fonts/Poppins-Regular.ttf);
+}
+
+/* Body */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#theme-button {
+  cursor: pointer;
+}
+
+display-4 {
+  font-family: "PoppinsBold", sans-serif;
+}
+
+section {
+  padding-top: 7rem;
+  overflow-x: hidden;
+}
+
+.skills-img {
+  width: 100;
+}
+
+#skills .row > * {
+  padding: 0%;
+}
+
+p,
+div,
+h1,
+h2 {
+  font-family: "PoppinsReguler", sans-serif;
+}
+
+.jumbotron {
+  background-color: #101926;
+  padding-top: 7rem;
+}
