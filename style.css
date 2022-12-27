@@ -23,6 +23,10 @@ display-4 {
   font-family: "PoppinsBold", sans-serif;
 }
 
+a {
+  margin-right: 0.5rem;
+}
+
 section {
   padding-top: 7rem;
   overflow-x: hidden;
