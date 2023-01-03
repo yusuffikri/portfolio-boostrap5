@@ -21,15 +21,19 @@ a {
 }
 
 section {
-  padding-top: 7rem;
+  padding-top: 5rem;
   overflow-x: hidden;
 }
 
-.skills-img {
+.sub-text {
+  margin-bottom: 1rem;
+}
+
+.experience-img {
   width: 100;
 }
 
-#skills .row > * {
+#experience .row > * {
   padding: 0%;
 }
 
