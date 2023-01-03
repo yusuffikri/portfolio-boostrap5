@@ -13,14 +13,7 @@
 * {
   margin: 0;
   padding: 0;
-}
-
-#theme-button {
-  cursor: pointer;
-}
-
-display-4 {
-  font-family: "PoppinsBold", sans-serif;
+  font-family: "PoppinsReguler", sans-serif;
 }
 
 a {
@@ -40,14 +33,22 @@ section {
   padding: 0%;
 }
 
-p,
-div,
-h1,
-h2 {
-  font-family: "PoppinsReguler", sans-serif;
-}
-
 .jumbotron {
   background-color: #101926;
   padding-top: 7rem;
+}
+
+.btn1 {
+  background-color: #101926;
+  width: 100%;
+}
+
+/* .btn2 {
+  align-items: flex-end;
+  background-color: #101926;
+  width: 50%;
+} */
+
+.play-icon {
+  color: #fff;
 }
